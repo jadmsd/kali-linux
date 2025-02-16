@@ -1,3 +1,6 @@
+# in terminal type sudo spt update && sudo apt install aircrack-ng python3-scapy -y
+# and then to runn it type sudo python3 (path to file)
+
 import os
 import subprocess
 import csv
